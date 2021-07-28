@@ -1,2 +1,2 @@
-# viperadnan-git.github.io
+# avasthi-git.github.io
 My personal website just like a portfolio !
